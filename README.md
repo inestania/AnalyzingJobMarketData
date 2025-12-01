@@ -25,3 +25,5 @@ Menampilkan perusahaan paling aktif merekrut, jenis peran yang dibuka, serta pol
 - Memberikan wawasan mengenai keterampilan paling dibutuhkan di dunia kerja saat ini.
 - Menjadi referensi bagi job seeker untuk menentukan skill yang perlu dikuasai.
 - Memberikan pemahaman yang lebih jelas mengenai kebutuhan tenaga kerja berdasarkan tingkat pengalaman.
+
+Inestania Putri Yatman_41823010031
